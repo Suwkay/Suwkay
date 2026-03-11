@@ -40,7 +40,7 @@ Today I'm completing a **Bac+5 cybersecurity bootcamp at Jedha** and spending mo
 What keeps me going is simple: every challenge solved is a technique learned, and every technique learned gets documented.
 I believe in learning by doing — and doing it until it works.
 
-> 🎯 Currently targeting a **pentest internship starting August 2026**.
+> 🎯 Currently targeting a **pentest internship starting April 2026**.
 
 <div align="center">
 
