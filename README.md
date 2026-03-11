@@ -28,6 +28,22 @@ STATUS="Actively seeking pentest internship — Aug 2026"
 
 <div align="center">
 
+### 👤 About Me
+
+</div>
+
+I didn't take the traditional path into cybersecurity.
+After years working in restaurants, I made a full career switch — driven by a genuine obsession with how systems work and how they break.
+
+Today I'm completing a **Bac+5 cybersecurity bootcamp at Jedha** and spending most of my free time on Root-Me and HackTheBox, working through realistic labs and CTF challenges across web, forensics, cryptanalysis and Active Directory.
+
+What keeps me going is simple: every challenge solved is a technique learned, and every technique learned gets documented.
+I believe in learning by doing — and doing it until it works.
+
+> 🎯 Currently targeting a **pentest internship starting August 2026**.
+
+<div align="center">
+
 ### 🎯 Focus Areas
 
 </div>
