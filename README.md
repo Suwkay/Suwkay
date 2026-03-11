@@ -65,14 +65,14 @@ STATUS="Actively seeking pentest internship — Aug 2026"
 ### 🏆 CTF Platforms
 
 </div>
-```
-Root-Me    ████████████░░░░░░░░  Active
-           username  : Suwkay
-           score     : 5,155 pts
-           categories: Web, Forensic, Crypto, App-Script, Realistic
 
-HackTheBox ████████░░░░░░░░░░░░  Active
-           focus     : machines & challenges
+| Platform | Username | Score | Status |
+|---|---|---|---|
+| **Root-Me** | [Suwkay](https://www.root-me.org/Suwkay) | 5,155 pts | 🟢 Active |
+| **HackTheBox** | Suwkay | — | 🟢 Active |
+
+```
+Root-Me categories: Web · Forensic · Cryptanalysis · App-Script · Realistic
 ```
 
 ---
