@@ -68,7 +68,8 @@ STATUS="Actively seeking pentest internship — Aug 2026"
 
 ```
 Root-Me  ──────────────────────────────────  [████████████░░░]  Active
-             username: Suwkay
+             username : Suwkay
+             score    : 5,155 pts
              categories: Web, Forensic, Crypto, App-Script, Realistic
 
 HackTheBox ────────────────────────────────  [████████░░░░░░░]  Active
