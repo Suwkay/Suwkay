@@ -65,15 +65,14 @@ STATUS="Actively seeking pentest internship — Aug 2026"
 ### 🏆 CTF Platforms
 
 </div>
-
 ```
-Root-Me  ──────────────────────────────────  [████████████░░░]  Active
-             username : Suwkay
-             score    : 5,155 pts
-             categories: Web, Forensic, Crypto, App-Script, Realistic
+Root-Me    ████████████░░░░░░░░  Active
+           username  : Suwkay
+           score     : 5,155 pts
+           categories: Web, Forensic, Crypto, App-Script, Realistic
 
-HackTheBox ────────────────────────────────  [████████░░░░░░░]  Active
-             focus: machines & challenges
+HackTheBox ████████░░░░░░░░░░░░  Active
+           focus     : machines & challenges
 ```
 
 ---
